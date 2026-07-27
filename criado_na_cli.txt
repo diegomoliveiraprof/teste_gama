@@ -1,0 +1,3 @@
+criado via ambiente de linha de comando
+teste de git
+mais uma linha
